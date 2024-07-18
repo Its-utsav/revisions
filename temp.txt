@@ -1,0 +1,16 @@
+1. string *most use method and properties 
+2. numbers *most use method and properties 
+3. array *most use  method and properties 
+4. object *most use method and properties 
+5. date
+6. function 
+7. some theory on sync js 
+8. some theory on async js
+9.  callbacks
+10. callbacks using simple function 
+11. callbacks using simple promise 
+12. callbacks using simple async await 
+13. class (also this keyword use , old way to define , morden way to define )
+14. class with oops concepts
+15. about proto 
+16. how to create own methods and properties 
